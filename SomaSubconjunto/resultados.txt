@@ -1,0 +1,11 @@
+Exemplo - 1 Soma esperada = 9 - Encontrou um subconjunto com uma soma dada
+Exemplo - 2 Soma esperada = 7 - Nao encontrou um subconjunto com a soma dada
+Exemplo - 3 Soma esperada = 10 - Nao encontrou um subconjunto com a soma dada
+Exemplo - 4 Soma esperada = 5 - Encontrou um subconjunto com uma soma dada
+Exemplo - 5 Soma esperada = 4 - Nao encontrou um subconjunto com a soma dada
+Exemplo - 6 Soma esperada = 0 - Encontrou um subconjunto com uma soma dada
+Exemplo - 7 Soma esperada = 1 - Encontrou um subconjunto com uma soma dada
+Exemplo - 8 Soma esperada = 40 - Encontrou um subconjunto com uma soma dada
+Exemplo - 9 Soma esperada = 56 - Encontrou um subconjunto com uma soma dada
+Exemplo - 10 Soma esperada = 91 - Nao encontrou um subconjunto com a soma dada
+Exemplo - 11 Soma esperada = 14 - Encontrou um subconjunto com uma soma dada

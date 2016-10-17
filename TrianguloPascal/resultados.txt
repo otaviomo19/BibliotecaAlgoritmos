@@ -1,0 +1,5 @@
+Primeira  Segunda  troca 
+Valor da Combinação de (10,2)45
+Valor da Combinação de (5,2)10
+Valor da Combinação de (2,4)0
+Valor da Combinação de (6,1)6
